@@ -3,4 +3,6 @@ Portfolio for my Python projects. A majority of these were completed through Cod
 
 The rest of the ipynb files are notebooks that I have written.
 
-ls-aug(1).ipynb:
+The following files are notebooks I have written for Kaggle competitions:
+ls-aug(1).ipynb
+ls-july-2022.ipynb
